@@ -1,8 +1,8 @@
 # uTranscribe
 Thesis project
-#### (uTranscribe is our Project that can transcribe text coming from audio, videos, and images.)
+#### uTranscribe is our Project that can transcribe text coming from audio, videos, and images.
 
-#### By (Your Name Here)
+#### By KyStDaGe
 
 ## Technologies Used
 
@@ -14,7 +14,9 @@ Thesis project
 
 ## Description
 
-*The proposed system will let the users upload a video into the software, that will be converted into an audio file, which will then produce a transcript. Users can then save the produced transcript into a .docx, .txt, or .pdf files. The system will also allow the users to select and copy an embedded text that is within a video, this can be used to either online or downloaded videos.
+* _The proposed system will let the users upload a video into the software, that will be converted into an audio file, which will then produce a transcript.
+* _Users can then save the produced transcript into a .docx, .txt, or .pdf files. 
+* _The system will also allow the users to select and copy an embedded text that is within a video, this can be used on downloaded videos.
 
 ## Setup/Installation Requirements
 
