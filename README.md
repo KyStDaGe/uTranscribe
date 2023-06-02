@@ -14,9 +14,9 @@ Thesis project
 
 ## Description
 
-* _The proposed system will let the users upload a video into the software, that will be converted into an audio file, which will then produce a transcript.
-* _Users can then save the produced transcript into a .docx, .txt, or .pdf files. 
-* _The system will also allow the users to select and copy an embedded text that is within a video, this can be used on downloaded videos.
+* _The proposed system will let the users upload a video into the software, that will be converted into an audio file, which will then produce a transcript._
+* _Users can then save the produced transcript into a .docx, .txt, or .pdf files._
+* _The system will also allow the users to select and copy an embedded text that is within a video, this can be used on downloaded videos._
 
 ## Setup/Installation Requirements
 
