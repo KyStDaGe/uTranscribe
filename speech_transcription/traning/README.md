@@ -2,7 +2,7 @@ CTC and LSTM Sample [here](https://github.com/dmlc/mxnet/tree/master/example/war
 
 ### Generating data
 
-Run `generate_data.py` in `generate_data`. When generating training and test data, please remember to change output path and number in `generate_data.py` (I will update a more friendly way to generate training and test data when I have free time).
+Run `generate_data.py` in `generate_data`. When generating training and test data, please remember to change output path and number in `generate_data.py`
 
 ### Train the model
 
