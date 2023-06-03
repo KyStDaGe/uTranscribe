@@ -6,11 +6,7 @@ Run `generate_data.py` in `generate_data`. When generating training and test dat
 
 ### Train the model
 
-1. LSTM + CTC;
-
-* Start training:
-
-LSTM + CTC:
+1. LSTM
 
 ```
 python train_lstm.py
@@ -20,10 +16,6 @@ You can do the prediction using your trained model.
 
 ```
 python lstm_predictor.py
-```
-or
-```
-python crnn_predictor.py
 ```
 
 
